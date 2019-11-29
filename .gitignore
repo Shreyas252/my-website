@@ -60,5 +60,5 @@ typings/
 # next.js build output
 .next
 
-#OS temp files
+#OS temp files with tmp extension
 *.tmp

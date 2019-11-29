@@ -10,3 +10,7 @@ This is just a Readme.md file
 These changes are done locally
 
 Making the changes to develop branch to show tag features.
+
+#Getting Started
+
+Adding getting started section in the README.md file
